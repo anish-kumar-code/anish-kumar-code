@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkr2842003&label=Profile%20views&color=0e75b6&style=flat" alt="anishkr2842003" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m a **Full Stack Software Developer**
 
-- 👨‍💻 All of my projects are available at [https://anish-kr-portfolio.netlify.app/](https://anish-kr-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anish-kr-portfolio.netlify.app/](https://portfolio.anishkr.fun/)]
 
 - 📫 How to reach me **anishkr2842003@gmail.com**
 
